@@ -27,7 +27,7 @@ I enjoy building intuitive and responsive web applications that enhance user exp
 When I'm not coding, you can find me **capturing moments through photography 📸** or **exploring new trails while hiking ⛰️**.  
 I also enjoy learning about new advancements in **AI & Machine Learning**.  
 
-##🚀 Explore my personal portfolio: [srv-geek.github.io/my-portfolio](https://srv-geek.github.io/my-portfolio)
+## 🚀 Explore my personal portfolio: [srv-geek.github.io/my-portfolio](https://srv-geek.github.io/my-portfolio)
 
 ## 📫 Connect With Me  
 - **GitHub:** [github.com/srv-geek](https://github.com/srv-geek)  
