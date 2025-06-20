@@ -31,5 +31,5 @@ I also enjoy learning about new advancements in **AI & Machine Learning**.
 
 ## 📫 Connect With Me  
 - **GitHub:** [github.com/srv-geek](https://github.com/srv-geek)  
-- **LinkedIn:** [linkedin.com/in/shubham-verma-177a50192](http://linkedin.com/in/shubham-verma-177a50192)  
+- **LinkedIn:**[http://linkedin.com/in/shubhamverma-dev](https://www.linkedin.com/in/shubhamverma-dev)   
 - **Email:** vermashubham.srv@gmail.com  
