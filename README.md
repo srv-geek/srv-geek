@@ -1,6 +1,4 @@
-<!-- README.md for srv-geek -->
-
-## 👋 Hola, I'm Shubham Raj Verma!
+## 👋 Hello, I'm Shubham Raj Verma!
 
 A passionate **Full Stack Developer** from India 🇮🇳 who enjoys building scalable web applications, solving real-world problems through efficient code, and continuously exploring new technologies.
 
@@ -11,7 +9,7 @@ A passionate **Full Stack Developer** from India 🇮🇳 who enjoys building sc
 
 ### 🔧 What I’m Currently Up To
 
-- 🔭 Working on: **Student Orbit** & **Job Board API (Spring Boot + Angular)**
+- 🔭 Working on: **Student Orbit** & **Job Connect (Spring Boot + Angular)**
 - 🌱 Learning: **Spring Boot, Microservices, Cloud Deployment (AWS/GCP)**
 - 🤝 Open to collaborate on: **Java/Spring Boot/Angular based open source projects**
 - 💬 Ask me about: Java, APIs, Spring Boot, Angular, DB Design, Git, Postman
