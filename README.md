@@ -12,7 +12,7 @@ A passionate **Software Developer** specializing in **Full Stack Development** f
 - 🔭 Working on: **Student Orbit** & **Job Connect (Spring Boot + Angular)**
 - 🌱 Learning: **Spring Boot, Microservices, Cloud Deployment (AWS/GCP)**
 - 🤝 Open to collaborate on: **Java / Spring Boot / Angular based open source projects**
-- 💬 Ask me about: Java, APIs, Spring Boot, Angular, REST API, DB Design, Git, Postman
+- 💬 Ask me about: Java, Spring Boot, Angular, REST API, DB Design, Git, Postman
 - 📫 How to reach me:  
   [<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="70"/>](mailto:vermashubham.srv@gmail.com)&nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="70"/>](https://linkedin.com/in/shubhamverma-dev)&nbsp;&nbsp;
